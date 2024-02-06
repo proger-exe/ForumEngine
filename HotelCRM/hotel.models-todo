@@ -1,0 +1,9 @@
+Profile:
+	- FIO
+	- Passport Data
+Post
+Tour
+Order (date, people count)
+Review
+Chat (with manager)
+Optional: Email send
